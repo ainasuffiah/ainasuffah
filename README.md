@@ -12,7 +12,8 @@ I'm a 3rd year Computer Science student in UiTM Shah Alam
 Java, C++
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [My Final Year Project](https://github.com/ainasuffiah/fyp)
+I'm currently working on my Final Year Project proposal titled Web-Based Dynamic Queue Optimization System Using Priority Scheduling
 
 ## Contact
 - Email: asuffiah94@gmail.com
