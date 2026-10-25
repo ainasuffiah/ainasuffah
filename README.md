@@ -1,7 +1,7 @@
 [profile-README-template.md](https://github.com/user-attachments/files/33388260/profile-README-template.md)
 # Hi, I'm Noor Aina Suffiah binti Ibrahim
 
-I'm a 3rd year Computer Science student in UiTM Shah Alam
+I'm a 3rd year Computer Science student at UiTM Shah Alam, currently learning web development and exploring different areas of computer science. I'm also working on my Final Year Project related to queue optimization.
 
 ## About me
 - Studying: Bachelor in Computer Science (Honours) CDCS230, UiTM
@@ -9,7 +9,7 @@ I'm a 3rd year Computer Science student in UiTM Shah Alam
 - My FYP area: web development
 
 ## Skills and tools
-Java, C++
+Java, C++, HTML 
 
 ## Projects
 - [My Final Year Project](https://github.com/ainasuffiah/fyp)
